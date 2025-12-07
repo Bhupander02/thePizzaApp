@@ -109,7 +109,7 @@ Example walk-through:
 
 📝 Open Cart → Place Order
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 thePizzaApp/
 │
 ├── src/            # React frontend
@@ -122,7 +122,7 @@ thePizzaApp/
 
 (Add assets/components/utils folders if applicable.)
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome and appreciated!
 Here’s how you can help:
@@ -148,12 +148,12 @@ Open a Pull Request
 
 Please maintain project structure, naming, and code style.
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, distribute, or extend it.
 
-✨ Roadmap / Future Enhancements
+# ✨ Roadmap / Future Enhancements
 
 Here are ideas to take this project to the next level:
 
@@ -180,7 +180,7 @@ Open an Issue or Pull Request.
 
 You can also reach out through GitHub for collaborations.
 
-📝 Acknowledgments
+# 📝 Acknowledgments
 
 Thanks to all open-source libraries used in this project
 
