@@ -82,8 +82,8 @@ npm run dev
 
 
 Use whichever matches your project setup.
---- 
-##🎬 Usage
+
+# 🎬 Usage
 
 Open your browser at http://localhost:3000
 
