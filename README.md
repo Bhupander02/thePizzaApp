@@ -32,7 +32,7 @@ This project serves as an excellent **demo**, **portfolio showcase**, or **start
 
 | Layer / Role | Technologies |
 |--------------|--------------|
-| **Frontend** | React, Vite, JavaScript/TypeScript, CSS |
+| **Frontend** | React, Vite, JavaScript, CSS |
 | **Backend / API** | Node.js, Express (found in `api/` folder) |
 | **Build & Dev Tools** | npm, Vite Dev Server, package.json |
 | **Code Quality** | ESLint (`eslint.config.js`) |
@@ -80,9 +80,6 @@ npm start
 # Start frontend (in root)
 npm run dev
 
-
-Use whichever matches your project setup.
-
 # 🎬 Usage
 
 Open your browser at http://localhost:3000
@@ -97,7 +94,6 @@ Review items in the Cart
 
 Simulate placing an order
 
-🖼️ Add screenshots or GIFs here to visually demonstrate the app flow.
 
 Example walk-through:
 
@@ -120,33 +116,7 @@ thePizzaApp/
 └── README.md
 
 
-(Add assets/components/utils folders if applicable.)
-
-# 🤝 Contributing
-
-Contributions are welcome and appreciated!
-Here’s how you can help:
-
-Fork the repository
-
-Create a new branch
-
-git checkout -b feature/new-feature
-
-
-Commit your changes
-
-git commit -m "Add some feature"
-
-
-Push to your fork
-
-git push origin feature/new-feature
-
-
-Open a Pull Request
-
-Please maintain project structure, naming, and code style.
+---
 
 # 📄 License
 
@@ -173,12 +143,6 @@ Here are ideas to take this project to the next level:
 
 🛒 Store cart in localStorage or backend
 
-📞 Contact / Feedback
-
-💬 Have suggestions? Found an issue?
-Open an Issue or Pull Request.
-
-You can also reach out through GitHub for collaborations.
 
 # 📝 Acknowledgments
 
